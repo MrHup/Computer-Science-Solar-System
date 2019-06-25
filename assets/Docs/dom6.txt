@@ -1,0 +1,223 @@
+
+{
+0
+1
+Art/planet1.png
+Bioinformatics
+1
+OPTIONALDESC
+General desc: is the study of biology through computer modeling and anal- ysis. It is a multi-discipline research involving biology, statistics, data-mining, machine learning and algorithms.
+1
+https://www.bioinformatics.org/
+2
+Cosmic Bonchis
+Dr.Habil. Darian M. Onchis
+abstract
+{
+1
+1
+Art/planet6.png
+Chaos Theory
+1
+Poze/BIO1.jpg
+is a branch of mathematics focusing on the behavior of dynamical systems that are highly sensitive to initial conditions. Relations: some fields in mathematics
+1
+European Conference on Computational Biology 
+0
+}
+computation
+{
+1
+1
+Art/planet3.png
+Computational biology
+1
+Poze/BIO2.png
+is the science of using biological data to develop algorithms or models to understand biological systems and relationships.
+1
+Research in Computational Molecular Biology 
+0
+genomics
+{
+2
+1
+Art/planet4.png
+Computational genomics
+1
+OPTIONALDESC
+is a field within genomics which studies the genomes of cells and organisms.
+0
+0
+}
+cancer curing
+{
+2
+1
+Art/planet2.png
+Cancer computational biology
+1
+OPTIONALDESC
+is a field that aims to determine the future mutations in cancer through an algorithmic approach to analyzing data.
+0
+0
+}
+evolution
+{
+2
+1
+Art/planet5.png
+Computational evolutionary biology
+1
+OPTIONALDESC
+has assisted the field of evolutionary biology in data prediction.
+0
+0
+}
+neuroscience
+{
+2
+1
+Art/planet1.png
+Computational neuroscience
+1
+OPTIONALDESC
+is the study of brain function in terms of the information processing properties of the structures that make up the nervous system.
+0
+0
+}
+}
+proteins
+{
+1
+1
+Art/planet3.png
+Protein structure prediction
+1
+Poze/BIO3.jpg
+is the inference of the three-dimensional structure of a protein from its amino acid sequence-that is, the prediction of its folding and its sec- ondary and tertiary structure from its primary structure.
+1
+Bioinformatics, by Oxford University Press 
+0
+}
+programming
+{
+1
+1
+Art/planet4.png
+Statistics and R
+1
+OPTIONALDESC
+is covering basics of statistical inference in order to understand and com- pute p-values and confidence intervals, all while analyzing data with R.
+0
+0
+
+{
+2
+1
+Art/planet5.png
+Inference:  p-values and confidence intervals
+1
+OPTIONALDESC
+guide us in the uncertainty of whether an observed difference is a random phenomenon, appearing just in the studied sample or if it represents a true difference in the entire (unobserved) population.
+1
+ISCB Africa ASBCB Conference on Bioinformatics 
+0
+}
+Data Analysis
+{
+2
+1
+Art/planet1.png
+Exploratory Data Analysis
+1
+OPTIONALDESC
+is an approach to analyzing data sets to summarize their main char- acteristics, often with visual methods.
+0
+0
+}
+
+{
+2
+1
+Art/planet2.png
+R
+1
+OPTIONALDESC
+is a programming language and free software environment for statis- tical computing and graphics.
+0
+0
+}
+}
+algorithms
+{
+1
+1
+Art/planet3.png
+Algorithms and Data Structures in Bioinformatics
+1
+OPTIONALDESC
+is the part of bioinformatics that finds the most efficient way to implement the data from biology
+0
+0
+molecule
+{
+2
+1
+Art/planet4.png
+Molecular Biology
+1
+OPTIONALDESC
+is the branch of biology that deals with the structure and function of the macromolecules.
+0
+0
+
+{
+3
+1
+Art/planet5.png
+Sequence Similarity
+1
+OPTIONALDESC
+is a method of searching sequence databases by using alignment to a query sequence.
+0
+0
+}
+}
+genome
+{
+2
+1
+Art/planet2.png
+-Genome Alignment
+1
+OPTIONALDESC
+is the prediction of evolutionary relationships at the nucleotide level between two or more genomes.
+0
+0
+
+{
+3
+1
+Art/planet1.png
+Multiple sequence alignment
+1
+OPTIONALDESC
+is a sequence alignment of three or more biological sequences, generally protein, DNA, or RNA..
+0
+0
+}
+}
+-Genome Rearrangement
+{
+2
+1
+Art/planet3.png
+Genome Rearrangement
+1
+OPTIONALDESC
+is a major genomic mutation, usually driven by errors in cell division following meiosis or mitosis.
+0
+0
+}
+}
+}

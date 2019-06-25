@@ -1,0 +1,236 @@
+
+{
+0
+1
+Art\planet3.png
+Networking
+1
+OPTIONALDESC
+Networking, also known as computer networking, is the practice of transporting and exchanging data between nodes over a shared medium in an information system. 
+4
+Clip:- "Warriors of the Net": https://youtu.be/Cb8b1RMX6XY
+IEEE Global Communications Conference
+Cisco Live
+IEEE Conference on Communications and Network Security
+4
+Dr. Stelian Mihalas
+Dr. Gabriel Iuhasz
+Dr. Laurentiu Coroban
+Dr. Popa Andreescu Horia-Emil
+
+{
+1
+1
+Art\planet3.png
+Cybersecurity
+1
+Poze/Net1.jpg
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks.
+0
+0
+
+{
+2
+1
+Art\planet1.png
+Network security 
+1
+Poze/Net2.jpg
+is the practice of securing a computer network from intruders, whether targeted attackers or opportunistic malware.
+0
+0
+}
+
+{
+2
+1
+Art\planet6.png
+Application security 
+1
+OPTIONALDESC
+focuses on keeping software and devices free of threats. 
+0
+0
+}
+
+{
+2
+1
+Art\planet3.png
+Information security 
+1
+OPTIONALDESC
+protects the integrity and privacy of data, both in storage and in transit.
+0
+0
+}
+
+{
+2
+1
+Art\planet1.png
+Operational security 
+1
+OPTIONALDESC
+includes the processes and decisions for handling and protecting data assets. 
+0
+0
+}
+
+{
+2
+1
+Art\planet5.png
+End-user education 
+1
+OPTIONALDESC
+addresses the most unpredictable cyber-security factor: people. 
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet6.png
+Cloud Computing
+1
+Poze/Net3.jpg
+is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
+0
+0
+
+{
+2
+1
+Art\planet3.png
+community cloud 
+1
+OPTIONALDESC
+shares infrastructure between several organizations from a specific community with common concerns 
+0
+0
+}
+
+{
+2
+1
+Art\planet4.png
+multicloud
+1
+OPTIONALDESC
+is the use of multiple cloud computing services in a single heterogeneous architecture to reduce reliance on single vendors, increase flexibility through choice, mitigate against disasters, etc. 
+0
+0
+}
+
+{
+2
+1
+Art\planet3.png
+HPC cloud 
+1
+OPTIONALDESC
+refers to the use of cloud computing services and infrastructure to execute high-performance computing (HPC) applications
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet4.png
+Big Data
+1
+OPTIONALDESC
+is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software.
+0
+0
+}
+
+{
+1
+1
+Art\planet3.png
+Hacking
+1
+OPTIONALDESC
+generally refers to unauthorized intrusion into a computer or a network. 
+0
+0
+
+{
+2
+1
+Art\planet2.png
+Packet sniffer
+1
+OPTIONALDESC
+applications that capture data packets in order to view data and passwords in transit over networks
+0
+0
+}
+Spoofing attack
+{
+2
+1
+Art\planet2.png
+Spoofing attack
+1
+OPTIONALDESC
+involves websites which falsify data by mimicking legitimate sites, and they are therefore treated as trusted sites by users or other programs
+0
+0
+}
+
+{
+2
+1
+Art\planet4.png
+Root kit
+1
+OPTIONALDESC
+represents a set of programs which work to subvert control of an operating system from legitimate operators
+0
+0
+}
+
+{
+2
+1
+Art\planet6.png
+Trojan horse
+1
+OPTIONALDESC
+serves as a back door in a computer system to allow an intruder to gain access to the system later
+0
+0
+}
+
+{
+2
+1
+Art\planet4.png
+Viruses
+1
+OPTIONALDESC
+self-replicating programs that spread by inserting copies of themselves into other executable code files or documents
+0
+0
+}
+
+{
+2
+1
+Art\planet5.png
+Key loggers
+1
+OPTIONALDESC
+tools designed to record every keystroke on the affected machine for later retrieval
+0
+0
+}
+}
+}

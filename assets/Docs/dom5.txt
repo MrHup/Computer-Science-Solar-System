@@ -1,0 +1,235 @@
+
+{
+0
+1
+Art\planet1.png
+COMPUTER ENGINEERING
+1
+OPTIONALDESC
+Computer engineering is a branch of engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software.
+4
+International Journal of Computer Science and Engineering Survey
+International Conference on High Performance Embedded Architectures and Compilers
+EMCC 2019 — Embedded Multi-Core Conference
+Mediterranean Conference on Embedded Computing
+3
+conf. dr. ADRIAN CRACIUN
+dealer CRISTIAN CIRA 
+dr. DANA PETCU
+
+{
+1
+1
+Art\planet2.png
+COMPUTER ARCHITECTURE 
+1
+Poze/CE2.jpg
+is a specification detailing how a set of software and hardware technology standards interact to form a computer system or platform.
+0
+0
+
+{
+2
+1
+Art\planet2.png
+INSTRUCTION SET ARCHITECTURE: 
+1
+Poze/CE1.jpg
+This is the embedded programming language of the central processing unit. It defines the CPU's functions and capabilities based on what programming it can perform or process.
+0
+0
+}
+
+{
+2
+1
+Art\planet1.png
+MICROARCHITECTURE
+1
+Poze/CE3.jpg
+This type of architecture defines the data paths, data processing and storage elements, as well as how they should be implemented in the ISA.
+0
+0
+}
+
+{
+2
+1
+Art\planet5.png
+SYSTEM DESIGN
+1
+OPTIONALDESC
+This includes all hardware components in the system, including data processors aside from the CPU, such as the graphics processing unit and direct memory access
+0
+0
+}
+
+{
+2
+1
+Art\planet3.png
+LOGIC SYNTHESIS
+1
+OPTIONALDESC
+This is the process by which an abstract specification of desired circuit behavior, typically at register transfer level (RTL), is turned into a design implementation in terms of logic gates, typically by a computer program called a synthesis tool.
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet4.png
+EMBEDDED SYSTEMS:  
+1
+OPTIONALDESC
+An embedded system is a controller programmed and controlled by a real-time operating system (RTOS) with a dedicated function within a larger mechanical or electrical system. 
+0
+0
+
+{
+2
+1
+Art\planet6.png
+REAL-TIME SYSTEMS
+1
+OPTIONALDESC
+ They are computer systems that monitor, respond to, or control an external environment.
+0
+0
+}
+
+{
+2
+1
+Art\planet4.png
+SMALL-SCALE SYSTEMS
+1
+OPTIONALDESC
+They are an entry-level system in which 8-bit or 16-bit processor is used.
+0
+0
+}
+
+{
+2
+1
+Art\planet4.png
+MOBILE SYSTEMS
+1
+OPTIONALDESC
+They are the most preferred in any embedded systems. The cell phone, mobile phone, wireless camera, personal digital assistant are the example of it.
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet6.png
+COMPILERS AND OPERATING SYSTEMS
+1
+OPTIONALDESC
+This specialty focuses on compilers and operating systems design and development. Engineers in this field develop new operating system architecture, program analysis techniques, and new techniques to assure quality.
+0
+0
+}
+
+{
+1
+1
+Art\planet3.png
+QUANTUM COMPUTING
+1
+OPTIONALDESC
+is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. 
+0
+0
+
+{
+2
+1
+Art\planet3.png
+QUANTUM SIMULATORS
+1
+OPTIONALDESC
+They permit the study of quantum systems that are difficult to study in the laboratory and impossible to model with a supercomputer.
+0
+0
+}
+
+{
+2
+1
+Art\planet6.png
+ADIABATIC QUANTUM COMPUTATION (AQC)
+1
+OPTIONALDESC
+This is a form of quantum computing which relies on the adiabatic theorem to do calculations. 
+0
+0
+}
+
+{
+2
+1
+Art\planet5.png
+QUANTUM ANNEALING
+1
+OPTIONALDESC
+This is used mainly for problems where the search space is discrete (combinatorial optimization problems) with many local minima; such as finding the ground state of a spin glass.
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet1.png
+PARALLEL COMPUTING
+1
+OPTIONALDESC
+This is a type of computation in which many calculations or the execution of processes are carried out simultaneously.
+0
+0
+
+{
+2
+1
+Art\planet2.png
+MULTI-CORE COMPUTING
+1
+OPTIONALDESC
+A multi-core processor is a processor that includes multiple processing units (called "cores") on the same chip.
+0
+0
+}
+
+{
+2
+1
+Art\planet5.png
+SYMMETRIC MULTIPROCESSING
+1
+OPTIONALDESC
+This involves a multiprocessor computer hardware and software architecture where two or more identical processors are connected to a single, shared main memory.
+0
+0
+}
+
+{
+2
+1
+Art\planet5.png
+DISTRIBUTED COMPUTING
+1
+OPTIONALDESC
+This is a field of computer science that studies distributed systems. A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another.
+0
+0
+}
+}
+}

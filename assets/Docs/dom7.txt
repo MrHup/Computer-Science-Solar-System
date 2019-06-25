@@ -1,0 +1,139 @@
+
+{
+0
+1
+Art\planet5.png
+Algorithmics
+1
+OPTIONALDESC
+is the science of algorithms. In mathematics and computer science, an algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing, automated reasoning, and other tasks.
+3
+SODA – ACM–SIAM Symposium on Discrete Algorithms
+ESA – European Symposium on Algorithms
+WADS – Algorithms and Data Structures Symposium
+4
+gabriel Istrate
+Adrian Spataru
+Alan Turing
+Manuel Blum
+
+{
+1
+1
+Art\planet6.png
+Algorithm design 
+1
+Poze/ALG2.png
+refers to a method or mathematical process for problem-solving and engineering algorithms
+0
+0
+
+{
+2
+1
+Art\planet5.png
+randomized algorithm 
+1
+OPTIONALDESC
+A randomized algorithm is an algorithm that employs a degree of randomness as part of its logic.
+0
+0
+}
+
+{
+2
+1
+Art\planet1.png
+divide and conquer algorithm 
+1
+OPTIONALDESC
+A divide and conquer algorithm repeatedly reduces an instance of a problem to one or more smaller instances of the same problem (usually recursively) until the instances are small enough to solve easily
+0
+0
+}
+
+{
+2
+1
+Art\planet1.png
+Back tracking
+1
+OPTIONALDESC
+multiple solutions are built incrementally and abandoned when it is determined that they cannot lead to a valid full solution
+0
+0
+}
+
+{
+2
+1
+Art\planet6.png
+dynamic programming 
+1
+OPTIONALDESC
+is a method that avoids recomputing solutions that have already been computed
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet3.png
+analysis of algorithms 
+1
+Poze/ALG1.png
+The analysis of algorithms is the determination of the computational complexity of algorithms, that is the amount of time, storage and/or other resources necessary to execute them.
+0
+0
+
+{
+2
+1
+Art\planet1.png
+algorithmic efficiency 
+1
+OPTIONALDESC
+algorithmic efficiency is a property of an algorithm which relates to the number of computational resources used by the algorithm
+0
+0
+}
+
+{
+2
+1
+Art\planet1.png
+Computational complexity theory 
+1
+OPTIONALDESC
+focuses on classifying computational problems according to their inherent difficulty, and relating these classes to each other. A computational problem is a task solved by a computer. 
+0
+0
+}
+
+{
+2
+1
+Art\planet2.png
+NP-hardness 
+1
+Poze/ALG3.png
+NP-hardness, in computational complexity theory, is the defining property of a class of problems that are, informally, "at least as hard as the hardest problems in NP". 
+0
+0
+
+{
+3
+1
+Art\planet3.png
+approximation algorithms 
+1
+OPTIONALDESC
+approximation algorithms are efficient algorithms that find approximate solutions to NP-hard optimization problems with provable guarantees on the distance of the returned solution to the optimal one
+0
+0
+}
+}
+}
+}

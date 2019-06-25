@@ -1,0 +1,33 @@
+
+{
+0
+.4
+Art/corpA.png
+Sun
+true
+short desc
+long desc
+2
+satellite_name_1
+satellite_name_2
+2
+Cira Cristian
+Bobby 2
+arg1
+connected through money
+{
+0
+2
+Art/corpA.png
+Child
+true
+short desc
+long desc
+2
+satellite_name_1
+satellite_name_2
+2
+Cira Cristian
+Bobby 2
+}
+}

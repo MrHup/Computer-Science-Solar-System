@@ -1,0 +1,155 @@
+
+{
+0
+1
+Art\planet4.png
+Mathematic of computing
+1
+OPTIONALDESC
+Computational mathematics involves areas of mathematical work that focus on the application of math to computing technologies
+0
+0
+
+{
+1
+1
+Art\planet6.png
+Mathematical analysis
+1
+OPTIONALDESC
+is the branch of mathematics dealing with limits and related theories, such as differentiation, integration, measure, infinite series, and analytic functions
+2
+: International conference "Algebraic and geometric methods of analysis, 2019"
+International Conference on Recent Trends in Mathematical Analysis and Its Applications
+3
+Edwin Hewitt
+Hans Niels
+Wright Scott
+
+{
+2
+1
+Art\planet2.png
+Calculus
+1
+Poze/Math1.jpg
+is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations.
+1
+International Conference on Integrability and Quantization.
+1
+Isaac Newton
+}
+
+{
+2
+1
+Art\planet2.png
+Numerical analysis 
+1
+OPTIONALDESC
+is the study of algorithms that use numerical approximation  for the problems of mathematical analysis.
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet2.png
+Mathematical software 
+1
+OPTIONALDESC
+is software used to model, analyze or calculate numeric, symbolic or geometric data. Mathematical software has a great connection with: Statistics, Theorem provers and proof assistants, Geometry, Numerical analysis
+0
+0
+}
+
+{
+1
+1
+Art\planet3.png
+Statistics
+1
+Poze/Math3.png
+is a branch of mathematics working with data collection, organization, analysis, interpretation and presentation. 
+3
+Symposium on Data Science and Statistics
+Workshop on Stochastic Geometry
+International Workshop on Matrices and Statistics.
+3
+W. Edwards Deming
+Florence Nightingale
+Janet Norwood
+
+{
+2
+1
+Art\planet6.png
+differential equation 
+1
+OPTIONALDESC
+A differential equation is a mathematical equation that relates some function with its derivatives.
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet2.png
+Probability
+1
+Poze/Math2.jpg
+Probability relates to chance, a notion with deep roots in antiquity, reflected in widespread games of chance and the practice of sortilege, resolving uncertainty by the casting of lots
+2
+International Vilnius Conference on Probability Theory and Mathematical Statistics
+Bernoulli-IMS World Congress in Probability and Statistics
+3
+Carl Friedrich Gauss
+Andrey Nikolayevich Kolmogorov
+, Rudolf Carnap
+
+{
+2
+1
+Art\planet4.png
+Probability axioms
+1
+OPTIONALDESC
+The Kolmogorov axioms are a fundamental part of Andrey Kolmogorov's probability theory
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet6.png
+Information theory 
+1
+OPTIONALDESC
+studies the quantification, storage, and communication of information.
+2
+Annual Conferences Sponsored by ITSOC
+IEEE and ITSOC Conference Codes
+3
+F. Rieke
+D. Warland
+Burnham K. P
+
+{
+2
+1
+Art\planet3.png
+quantities
+1
+OPTIONALDESC
+In mathematics and empirical science, quantification is the act of counting and measuring that maps human sense observations and experiences into quantities
+0
+0
+}
+}
+}

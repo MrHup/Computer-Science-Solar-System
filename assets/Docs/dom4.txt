@@ -1,0 +1,44 @@
+
+{
+0
+1
+Art\planet4.png
+Graphics
+1
+OPTIONALDESC
+are visual images or designs on some surface, such as a wall, canvas, screen, paper, or stone to inform, illustrate, or entertain
+0
+4
+Charles Csuri
+Donald P. Greenberg
+A. Michael Noll
+Ed Catmull
+
+{
+1
+1
+Art\planet5.png
+Image / Video Processing 
+1
+Poze/GRAPH1.jpg
+is a method to convert an image into digital form and perform some operations on it, in order to get an enhanced image or to extract some useful information from it
+0
+2
+ADOBE PHOTOSHOP 
+AFTEREFFECTS
+}
+
+{
+1
+1
+Art\planet6.png
+Video Games/ Animations/Arboard
+1
+Poze/GRAPH2.png
+Vector graphics refers to the use of geometrical primitives such as points, lines, and curves
+0
+2
+UNITY 
+BENDER 
+}
+}

@@ -1,0 +1,162 @@
+
+{
+0
+1
+Art\planet3.png
+A.I.
+1
+OPTIONALDESC
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. 
+3
+Movie: -2001: A Space Odyssey
+Conference: -International Conference on Artificial Intelligence(ICOAI)
+Book: -The Fourth Age: Smart Robots, Conscious Computers, and the Future of Humanity(by Byron Reese, 2018)
+6
+John McCarthy
+Marvin Minsky
+Allen Newell
+Herbert A. Simon
+Marc Eduard Frîncu
+Cristian Cira
+learning
+{
+1
+1
+Art\planet5.png
+Machine Learning
+1
+Poze/AI3.jpg
+Machine learning is the science of getting computers to act without           being explicitly programmed. 
+3
+Conference: International Conference on Machine Learning (ICML)
+Movie: Ex Machina(2014)
+Book: The Hundred-Page Machine Learning Book(by Andriy Burkov)
+0
+computation
+{
+2
+1
+Art\planet6.png
+Computational learning theory 
+1
+OPTIONALDESC
+devoted to studying the design and analysis of machine learning algorithms.
+0
+0
+}
+grammar
+{
+2
+1
+Art\planet5.png
+Grammar induction 
+1
+Poze/AI1.jpg
+the process in machine learning of learning a formal grammar from a set of observations, thus constructing a model which accounts for the characteristics of the observed objects. 
+0
+0
+}
+
+{
+2
+1
+Art\planet6.png
+Meta learning 
+1
+OPTIONALDESC
+automatic learning algorithms are applied on metadata about machine learning experiments.
+0
+0
+}
+}
+
+{
+1
+1
+Art\planet6.png
+Computer Vision
+1
+OPTIONALDESC
+is defined as a field of study that seeks to develop techniques to help computers “see” and understand the content of digital images such as photographs and videos.
+2
+Conference: International Conference on Computer Vision and Graphics
+Book: Computer Vision: Algorithms and Applications(by Richard Szeliski, 2010)
+0
+}
+language
+{
+1
+1
+Art\planet6.png
+Natural language processing
+1
+OPTIONALDESC
+a branch of artificial intelligence that helps computers understand, interpret and manipulate human language.
+2
+-Book: Natural Language Processing with Python(by Edward Loper, Steven Bird, Ewan Klein, 2009)
+-Conference: Annual Conference of the North American Chapter of the Association for Computational Linguistics
+0
+information
+{
+2
+1
+Art\planet1.png
+Information extraction
+1
+OPTIONALDESC
+the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents.
+0
+0
+}
+
+{
+2
+1
+Art\planet5.png
+Ontology
+1
+OPTIONALDESC
+
+0
+0
+}
+speech
+{
+2
+1
+Art\planet6.png
+Speech Processing 
+1
+OPTIONALDESC
+the study of speech signals and the processing methods of signals
+0
+0
+}
+
+{
+2
+1
+Art\planet2.png
+Statical NLP
+1
+OPTIONALDESC
+
+0
+0
+}
+}
+Networks
+{
+1
+1
+Art\planet1.png
+Neural Networks
+1
+Poze/AI2.jpg
+is inspired by human brains and tryes to copy the working process of human brains. 
+2
+Book: Make Your Own Neural Network(by Tariq Rashid, 2016)
+Conference:  International Conference on Artificial Neural Networks(ICANN)
+0
+}
+}

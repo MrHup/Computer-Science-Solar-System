@@ -1,0 +1,147 @@
+<project>
+ <properties orientation="1" osx_installerId="" winrt_org="GiderosMobile" logicalWidth="1080" retinaDisplay="0" app_icon="" splashScaleMode="0" vsync="0" html5_mem="256" touchToMouse="1" mouseTouchOrder="0" html5_wasm="0" osx_domain="giderosmobile.com" backgroundColor="#ffffff" html5_pack="0" splash_v_image="" osx_bundle="com.yourdomain." fps="60" iosDevice="0" scaleMode="0" exportMode="0" tv_icon="" app_name="MPI Map" disableSplash="0" winrt_package="com.yourdomain.yourapp" android_template="0" encryptAssets="0" html5_fbinstant="0" osx_org="GiderosMobile" version_code="1" logicalHeight="1920" encryptCode="0" win_org="GiderosMobile" osx_category="5" architecture="2" ios_bundle="com.yourdomain." packageName="com.yourdomain.yourapp" html5_fbload="100" html5_host="" osx_signingId="" html5_symbols="0" windowHeight="0" build_number="1" version="1.0" win_domain="giderosmobile.com" mouseToTouch="1" windowWidth="0" autorotation="0" splash_h_image="">
+  <imageScales/>
+  <plugins/>
+  <exports>
+   <export name="APK">
+    <property name="androidPath" value=""/>
+    <property name="androidSdk" value=""/>
+    <property name="androidTarget" value="19"/>
+    <property name="androidTools" value=""/>
+    <property name="buildApk" value="1"/>
+    <property name="deployApk" value="0"/>
+    <property name="javaPath" value=""/>
+    <property name="keyAlias" value=""/>
+    <property name="keyStore" value=""/>
+    <property name="packageName" value="com.yourdomain.yourapp"/>
+    <property name="timestampApk" value="0"/>
+   </export>
+  </exports>
+ </properties>
+ <folder name="Art">
+  <file source="assets/Art/Soare.png"/>
+  <file name="assets/Art/Soare.png"/>
+  <file source="aim.png"/>
+  <file name="assets/Art/bg.png"/>
+  <file source="assets/Art/bg.png"/>
+  <file source="assets/Art/char.png"/>
+  <file name="assets/Art/char.png"/>
+  <file source="assets/Art/corpA.png"/>
+  <file name="assets/Art/corpA.png"/>
+  <file name="assets/Art/exit.png"/>
+  <file source="assets/Art/exit.png"/>
+  <file name="assets/Art/lineWhite.png"/>
+  <file name="assets/Art/long_panel.png"/>
+  <file source="assets/Art/long_panel.png"/>
+  <file name="assets/Art/panel.png"/>
+  <file source="assets/Art/panel.png"/>
+  <file name="assets/Art/pause.png"/>
+  <file source="assets/Art/pause.png"/>
+  <file source="assets/Art/planet1.png"/>
+  <file name="assets/Art/planet1.png"/>
+  <file source="assets/Art/planet2.png"/>
+  <file name="assets/Art/planet2.png"/>
+  <file source="assets/Art/planet3.png"/>
+  <file name="assets/Art/planet3.png"/>
+  <file source="assets/Art/planet4.png"/>
+  <file name="assets/Art/planet4.png"/>
+  <file source="assets/Art/planet5.png"/>
+  <file name="assets/Art/planet5.png"/>
+  <file source="assets/Art/planet6.png"/>
+  <file name="assets/Art/planet6.png"/>
+  <file source="assets/Art/play.png"/>
+  <file name="assets/Art/play.png"/>
+  <file source="assets/Art/speedDown.png"/>
+  <file name="assets/Art/speedDown.png"/>
+  <file source="assets/Art/speedUp.png"/>
+  <file name="assets/Art/speedUp.png"/>
+  <file name="assets/Art/zoom.png"/>
+ </folder>
+ <folder name="Big "/>
+ <folder name="Classes">
+  <file source="classes/AceSlide.lua"/>
+  <file source="classes/GiderosCodingEasy.lua"/>
+  <file source="classes/Music.lua"/>
+  <file source="classes/Popup.lua"/>
+  <file source="classes/Sounds.lua"/>
+  <file source="classes/TextWrap.lua"/>
+  <file source="classes/View.lua"/>
+  <file source="classes/button.lua"/>
+  <file source="classes/dataSaver.lua"/>
+  <file source="classes/easing.lua"/>
+  <file source="classes/gtween.lua"/>
+  <file source="classes/scenemanager.lua"/>
+ </folder>
+ <folder name="Docs">
+  <file name="assets/Docs/dom1.txt"/>
+  <file name="assets/Docs/dom2.txt"/>
+  <file name="assets/Docs/dom3.txt"/>
+  <file name="assets/Docs/dom4.txt"/>
+  <file name="assets/Docs/dom5.txt"/>
+  <file name="assets/Docs/dom6.txt"/>
+  <file name="assets/Docs/dom7.txt"/>
+  <file name="assets/Docs/dom8.txt"/>
+  <file name="assets/Docs/text.txt"/>
+ </folder>
+ <folder name="Doms">
+  <file source="assets/Docs/dom1.txt"/>
+  <file source="assets/Docs/dom2.txt"/>
+  <file source="assets/Docs/dom3.txt"/>
+  <file source="assets/Docs/dom4.txt"/>
+  <file source="assets/Docs/dom5.txt"/>
+  <file source="assets/Docs/dom6.txt"/>
+  <file source="assets/Docs/dom7.txt"/>
+  <file source="assets/Docs/dom8.txt"/>
+  <file source="assets/Docs/text.txt"/>
+ </folder>
+ <folder name="Fonts">
+  <file source="assets/Fonts/Voyager Heavy.otf"/>
+  <file name="assets/Fonts/Voyager Heavy.otf"/>
+  <file source="assets/Fonts/Voyager Light.otf"/>
+  <file name="assets/Fonts/Voyager Light.otf"/>
+  <file source="assets/Fonts/kongtext.ttf"/>
+  <file name="assets/Fonts/kongtext.ttf"/>
+ </folder>
+ <folder name="Objects">
+  <file name="assets/Objects/Corp.lua"/>
+  <file name="assets/Objects/MainCorp.lua"/>
+  <file name="assets/Objects/Sun.lua"/>
+ </folder>
+ <folder name="Poze">
+  <file source="Poze/AI1.jpg"/>
+  <file source="Poze/AI2.jpg"/>
+  <file source="Poze/AI3.jpg"/>
+  <file source="Poze/ALG1.png"/>
+  <file source="Poze/ALG2.png"/>
+  <file source="Poze/ALG3.png"/>
+  <file source="Poze/BIO1.jpg"/>
+  <file source="Poze/BIO2.png"/>
+  <file source="Poze/BIO3.jpg"/>
+  <file source="Poze/CE1.jpg"/>
+  <file source="Poze/CE2.jpg"/>
+  <file source="Poze/CE3.jpg"/>
+  <file source="Poze/GRAPH1.jpg"/>
+  <file source="Poze/GRAPH2.png"/>
+  <file source="Poze/HCI1.png"/>
+  <file source="Poze/HCI2.png"/>
+  <file source="Poze/HCI3.jpg"/>
+  <file source="Poze/Math1.jpg"/>
+  <file source="Poze/Math2.jpg"/>
+  <file source="Poze/Math3.png"/>
+  <file source="Poze/Net1.jpg"/>
+  <file source="Poze/Net2.jpg"/>
+  <file source="Poze/Net3.jpg"/>
+ </folder>
+ <file source="character.lua"/>
+ <file source="config.lua"/>
+ <file source="cursor.lua"/>
+ <file source="game.lua"/>
+ <file name="assets/long_panel.lua"/>
+ <file source="main.lua"/>
+ <file source="menu.lua"/>
+ <file name="assets/notification.lua"/>
+ <file name="assets/useful_func.lua"/>
+ <dependency from="config.lua" to="classes/TextWrap.lua"/>
+ <dependency from="config.lua" to="classes/scenemanager.lua"/>
+ <dependency from="config.lua" to="classes/easing.lua"/>
+</project>

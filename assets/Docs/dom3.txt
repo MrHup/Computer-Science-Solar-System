@@ -1,0 +1,171 @@
+
+{
+0
+1
+Art\planet4.png
+Human-computer interaction(HCI) 
+1
+Poze/HCI1.jpg
+HCI is an area of research and practice concerned with the design, evaluation and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them.
+0
+0
+
+{
+1
+1
+Art\planet6.png
+End-User development
+1
+OPTIONALDESC
+End-user development studies how ordinary users could routinely tailor applications to their own needs and to invent new applications based on their understanding of their own domains.
+1
+The International Symposium on End-User Development(IS-EUD)
+1
+Henry Lieberman
+}
+
+{
+1
+1
+Art\planet6.png
+Embedded systems
+1
+OPTIONALDESC
+An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints. It is embedded as part of a complete device, often including hardware and mechanical parts
+2
+International Conference on Embedded Systems and Applications(IC-EMSA)
+Embedded Technologies Expo & Conference (ETC)
+2
+Charles Stark Draper
+Cosmin Bonchis 
+internet
+{
+2
+1
+Art\planet6.png
+Internet of Things(IoT)
+1
+Poze/HCI2.png
+IoT is the extension of Internet connectivity into physical devices and everyday objects with the aid of sensors or embedded systems
+0
+0
+}
+}
+Reality
+{
+1
+1
+Art\planet6.png
+X Reality(XR)
+1
+OPTIONALDESC
+XR encompasses a wide spectrum of hardware and software, including sensory interfaces, applications and infrastructures, that enable content creation for Virtual Reality, Mixed Reality and Augmented Reality
+5
+IEEE VR - The Premier International Conference on Virtual Reality and 3D User Interfaces
+VRX Europe
+ARVR 
+Digital Transformation Conference
+E3
+4
+Jaron Lanier
+Steve Mann
+Louis Rosenberg
+Mark Bolas
+Virtual
+{
+2
+1
+Art\planet6.png
+Virtual Reality(VR)
+1
+OPTIONALDESC
+VR is a computer-generated environment or reality that is designed to simulate a person’s physical presence in a specific environment, which is designed to feel real.
+0
+0
+}
+Augmented
+{
+2
+1
+Art\planet1.png
+Augmented Reality(AR)
+1
+Poze/HCI3.png
+AR is an interactive, reality-based display environment that combines real and computer-based scenes and images to deliver a unified but enhanced view of the world to the user
+0
+0
+}
+Mixed
+{
+2
+1
+Art\planet5.png
+Mixed Reality(MR
+1
+OPTIONALDESC
+is a type of hybrid system that involves both physical and virtual elements, that anchors virtual objects to real-world objects and allows the user to interact with combined virtual/real objects
+0
+0
+}
+}
+Brain
+{
+1
+1
+Art\planet3.png
+Brain-computer interface
+1
+OPTIONALDESC
+is a technology that allows direct communication between brain signals and an external device, allowing non-muscular communication with external world
+3
+International BCI Meeting
+IEEE SMC Workshop on Brain-Machine Interface (BMI) Systems
+Neuro Informatics
+3
+Professor Jacques Vidal
+Hans Berger
+Phillip Kennedy
+Invasive BCI
+{
+2
+1
+Art\planet6.png
+Invasive BCI
+1
+OPTIONALDESC
+Requires surgery to implant electrodes under scalp for communicating brain signals
+0
+0
+}
+
+{
+2
+1
+Art\planet1.png
+Non-invasive BCI
+1
+OPTIONALDESC
+BCI procedures that do not involve tools that break the skin or physically enter the body
+0
+0
+}
+}
+affective
+{
+1
+1
+Art\planet5.png
+Affective computing
+1
+OPTIONALDESC
+Affective computing a.k.a. emotional AI is a field of research that studies and develops systems and devices that can recognize, interpret, process and simulate human affects, developing emotionally intelligent information systems
+3
+International Conference on Affective Computing and Intelligent Interaction
+International Conference on Intelligent Human Computer Interaction
+International ACM/IEEE Conference on Human Robot Interaction 
+3
+Mafteiu-Scai Liviu Octavian 
+Marvin Minsky
+Rosalind Picard
+}
+}
