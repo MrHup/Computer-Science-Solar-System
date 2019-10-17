@@ -10,12 +10,11 @@ Computer engineering is a branch of engineering that integrates several fields o
 4
 International Journal of Computer Science and Engineering Survey
 International Conference on High Performance Embedded Architectures and Compilers
-EMCC 2019 — Embedded Multi-Core Conference
+EMCC 2019 â€” Embedded Multi-Core Conference
 Mediterranean Conference on Embedded Computing
-3
-conf. dr. ADRIAN CRACIUN
-dealer CRISTIAN CIRA 
-dr. DANA PETCU
+2
+dealer CIRA 
+dr. DANA PETTCU
 
 {
 1
